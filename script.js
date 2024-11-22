@@ -3,7 +3,7 @@ const participants = [
   "Miléna", "Axel", "Timothée", "Tati Fanja","Stéphane", "Rébecca", 
   "Laetitia", "Thibault", "Erwan", "Urielle", "Miary", "Mianta", "Daniel", 
   "Kevin", "Tolotra", "Nomena", "Ando", "Tonton José", "Tonton Naina", 
-  "Tati Volatiana", "Tatie Natacha", "MinoHasina", 
+  "Tati Volatiana", "Tati Natacha", "MinoHasina", 
   "Asandatra", "Tiavina", "Luc", "Sarobidy"
 ];
 
