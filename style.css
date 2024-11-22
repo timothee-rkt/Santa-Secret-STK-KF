@@ -135,3 +135,38 @@ p {
       font-size: 0.8em;
   }
 }
+/* Animation pour la réinitialisation */
+@keyframes resetAnimation {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Appliquer l'animation à tous les éléments à réinitialiser */
+.hidden-while-reset {
+  animation: resetAnimation 0.5s ease-in-out forwards;
+}
+#participant-list {
+  width: 300px; /* Assurez-vous que la largeur de la liste est fixe */
+  margin: 0 auto; /* Centrer horizontalement */
+  display: block; /* S'assurer que la liste est un bloc */
+  transition: all 0.3s ease-in-out; /* Ajouter une animation fluide */
+}
+
+#result {
+  text-align: center; /* Centrer le texte du résultat */
+}
+
+button {
+  display: block; /* S'assurer que les boutons sont bien alignés */
+  margin: 10px auto; /* Centrer les boutons */
+}
