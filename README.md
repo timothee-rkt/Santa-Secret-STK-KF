@@ -1,2 +1,2 @@
 # Secret-Santa-STK-KF
-it's a litte projet for my STK KANANA FIADANANA for Christmas 
+C'est un petit projet pour la STK KANANA FIADANANA pour Noêl.
