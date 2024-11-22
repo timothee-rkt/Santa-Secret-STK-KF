@@ -1,9 +1,9 @@
 // Liste des participants 
 const participants = [
-  "Miléna", "Axel", "Timothée", "Tatie Fanja", "Vaholy", "Stéphane", "Rébecca", 
+  "Miléna", "Axel", "Timothée", "Tati Fanja","Stéphane", "Rébecca", 
   "Laetitia", "Thibault", "Erwan", "Urielle", "Miary", "Mianta", "Daniel", 
-  "Kevin", "Tolotra", "Nomena", "Emmanuel", "Ando", "Tonton José", "Tonton Naina", 
-  "Tatie Vola", "Tatie Natacha", "MinoHasina", "Tatie Tojo", "Tonton Mana", 
+  "Kevin", "Tolotra", "Nomena", "Ando", "Tonton José", "Tonton Naina", 
+  "Tati Volatiana", "Tatie Natacha", "MinoHasina", 
   "Asandatra", "Tiavina", "Luc", "Sarobidy"
 ];
 
